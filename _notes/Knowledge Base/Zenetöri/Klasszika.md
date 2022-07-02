@@ -5,7 +5,7 @@ banner: "https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_cen
 banner_y: 0.76
 ---
 
-!https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg
+![https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg]
 
 ==1750-1820==
 egyszerűsége -><- barokk polifónia
