@@ -1,6 +1,6 @@
 ---
-banner: "![[zenetöri.jpg]]"
-banner_y: 0.38
+banner: "![[banner1.jpg]]"
+banner_y: 0.596
 ---
 
 ## Első félév - középkor-reneszánsz

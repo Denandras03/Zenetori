@@ -25,7 +25,7 @@
         -   A hívekért való küzdelem eszköze a zene, meghatja, tehát leköti a hallgatót
         -   Ez a harc csak a felszín
 
--   [[Heinrich Schütz]] (1585-1672)
+-   [[Heinrich Schütz]]
     -   Fennmaradt életműve nyomtatott kottákból áll - csak egyházi művek
     -   Első német [[opera]] szerzője - nem maradt fenn
     -   Élete
