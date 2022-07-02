@@ -39,7 +39,7 @@ népdalokra emlékeztető egyszerűség
 	- császári ház tagjai műkedvelők
 	- arisztokrácia: házi együttesek
 - zenekar felépítése stabilizálódik
-	- [[Hangszeres zene a 17. században#^b42045]]
+	- [[Hangszeres zene a 17. században]]
 	- [[Cristofori fortepianója]]
 
 ### Újítások
