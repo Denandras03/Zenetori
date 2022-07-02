@@ -3,7 +3,6 @@
 ---
 
 ### Idő
-
 -   történelmi középkor
     -   (korszakok nem léteznek, hanem mi hozzuk létre őket)
     -   313- Milánói edictum (szabad vallásgyakorlat)
@@ -19,7 +18,6 @@
     -   1400 - újjászületik a zene
 
 ### Tekinthető-e egységes korszaknak?
-
 -   igen, mert rengeteg az állandó tényező
     -   gondolkodásformák
     -   zenei jelenségek
@@ -57,7 +55,6 @@
             -   magasrendű zene - gondolkodás a zenéről
 
 ### Jellemző gondolkodásformák
-
 -   a zene a társadalmi elité, a paraszt ember nem gondolkodik róla
     -   (az adófizetők)
 -   fogalma
