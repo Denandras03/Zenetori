@@ -3,7 +3,7 @@ alias: Schütz
 #zenetöri #személy
 ---
 
-(1585-1672)
+==1585-1672==
 
 Első német [[opera]] szerzője
 
