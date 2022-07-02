@@ -60,7 +60,6 @@ népdalokra emlékeztető egyszerűség
 - [[periódus]]
 - [[szonátaforma]]
 
-
 ##### Új csoportosítás
 - 3 tételes felépítés
 	1. szonáta
@@ -71,9 +70,9 @@ népdalokra emlékeztető egyszerűség
 	2. dalforma/triós forma
 	3. menüett
 	4. rondó
-- műfajt az együttes határozza meg
+> műfajt az együttes határozza meg
 	- 1-2 hangszer: [[szonáta]]
 	- zenekar: szimfónia
 	- + szólóhangszer: concerto (3 tétel)
 	- kamaraszonáták számtól függően (pl. kvintett)
-- 
+
