@@ -13,7 +13,7 @@ alias: barokk
 
 [[barokk a hétköznapokban]]
 
-### ~1600~1730 ([[gáláns stílus]]sal vége)
+### ==~1600~1730== ([[gáláns stílus]]sal vége)
 - [[Humanizmus|humanista]] értelmiségiek Itáliában - görög-római modellek a zenébe	
 * szó:
 	- igazgyöngy-halászok elnevezése
