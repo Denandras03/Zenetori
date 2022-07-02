@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Üdvözöllek! 🌱
+# Üdvözöllek!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Dénes András <span style="font-weight: bold">[[zenetöri]] jegyzetei</span>
