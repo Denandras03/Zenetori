@@ -29,19 +29,19 @@ banner_y: 0.596
 
 [[zenetöri második félév összefoglalás]]
 
-1. [[A barokk zenéről általában]] (22-02-03)
+1. [[A barokk zenéről általában]]
 
-2. [[Opera]] (22-02-10) (22-03-03)
+2. [[Opera]]
 
-3. [[Hangszeres zene a 17. században]] (22-03-10)
+3. [[Hangszeres zene a 17. században]]
 
-4. [[Egyházi zene a 17. században]] (22-03-17)
+4. [[Egyházi zene a 17. században]]
 
-5. [[Francia barokk]] (22-03-24)
+5. [[Francia barokk]]
 
-6. [[Angol zenei kultúra]] (22-03-31)
+6. [[Angol zenei kultúra]]
 
-7. [[szonáta|Szonáta]] (22-04-07)
+7. [[szonáta|Szonáta]]
 
 8. [[Hangszeres concerto]]
 
