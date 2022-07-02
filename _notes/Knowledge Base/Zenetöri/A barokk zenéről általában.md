@@ -3,7 +3,6 @@ alias: barokk
 #zenetöri #anyag
 ---
 
-# A barokk zenéről általában
 > *[[Bach]] túl nagy hangsúlyt kapott az oktatásban, saját idejében kevésbé volt meghatározó*
 
 > *"a történet a ragasztó, ami megragasztja az adatokat a fejben"*
