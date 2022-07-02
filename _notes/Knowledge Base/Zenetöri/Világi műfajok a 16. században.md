@@ -18,14 +18,14 @@
                 -   csata
     -   [[madrigál]] (nincs refrén)
         -   olasz nyelvű költői műfaj (madre = anya)
-        -   1538-as madrigál kötet (**[[Acradelt]]**)
+        -   `1538-as` madrigál kötet (**[[Acradelt]]**)
             -   mille morte - ezer halál = szerelmi beteljesülés
             -   hattyú
             -   fontos szavak megjelenése a zenében
         -   fokozatosan egyre művészibbé válik
             -   **[[Adrian Willaert]]**: Musica Nova - [[madrigál]]ok és [[motetta|motetták]]
             -   nincs jelentős különbség
-            -   1501: [[Petrarca]] versei nyomtatva
+            -   `1501:` [[Petrarca]] versei nyomtatva
                 -   képekben gazdag
                 -   század végére erőteljesebb a szöveg megjelenítése
         -   **[[Monteverdi]]** madrigálja

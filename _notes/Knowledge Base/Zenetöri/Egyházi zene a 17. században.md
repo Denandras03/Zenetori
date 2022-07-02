@@ -10,8 +10,8 @@
 
 -   [[Monteverdi]]: Vespro
     -   Mária ünnep vesperálása
-    -   1611-ben egyre rosszabb állapotban volt, és Rómában egyházi állásra számított, és erre írta meg
-    -   1613: Velencei Szent Márk Székesegyház
+    -   `1611-ben` egyre rosszabb állapotban volt, és Rómában egyházi állásra számított, és erre írta meg
+    -   `1613:` Velencei Szent Márk Székesegyház
     -   2 féle zene:
         -   Régi stílus - [[Josquin]]-szerű
             -   Zeneszerkesztés módja

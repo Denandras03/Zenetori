@@ -31,7 +31,7 @@
 		-  Fantasia on One Note
 			 - tenor szólam: egyetlen C hang
 
-Szonáta
-![[szonáta]]
+## [[szonáta]]
+
 * [[John Blow]]
 * [[Bach]]

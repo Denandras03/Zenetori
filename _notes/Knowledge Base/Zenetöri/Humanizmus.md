@@ -26,7 +26,7 @@ Humanista gondolkodás
     -   **[[Jacopo Corsi]]**
     -   újfajta énekstílus: [[monódikus stílus]]
 -   **[[Girolamo Bargagli]]** - La Pellegrina
-    -   5 felvonás
+    -   `5` felvonás
     -   intermedio-k - zenei közjátékok Ottavino Rinucci szövegeire
     -   [[Giulio Caccini]], [[Jacopo Peri]] - monódikus ének fontos alakjai (és első operaszerzők)
 -   [[basso continuo|számozott basszus]], operaszerű, recitált ének

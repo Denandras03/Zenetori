@@ -63,5 +63,3 @@ alias: barokk
 	* túl sok, túl művészi
 * [[Giovanni Battista Lully]]
 * [[Arcangelo Corelli]]
-
-* [[Klasszika]]

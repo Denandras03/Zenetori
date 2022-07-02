@@ -16,7 +16,7 @@
     -   [[Ockeghem]] halálára (szokás)
     -   Az erdők nimfáihoz, a vizek istennőihez szól (keveredik a mitológiai világ az egyistenhittel)
     -   nagyon hosszú mondatokból áll, a **zene világossá teszi a szöveg szerkezetét**
--   1515: **[[Willaert]]** ellátogat a pápai udvarba, a kórus az ő operáját énekli (Josquin neve alatt)
+-   `1515:` **[[Willaert]]** ellátogat a pápai udvarba, a kórus az ő operáját énekli (Josquin neve alatt)
     -   szólt, hogy ő írta, ezért abbahagyták az éneklését - sznobéria
     -   a zenei stílus homogén
     -   ([Világi műfajok a 16. században](https://www.notion.so/Vil-gi-m-fajok-a-16-sz-zadban-aa7b875c804941a18e80f5b52d44d853))

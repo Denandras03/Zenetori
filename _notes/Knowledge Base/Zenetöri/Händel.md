@@ -5,5 +5,5 @@ alias: Georg Friedrich Händel
 1685-1759
 
 Szerepe az operában: 
-![[opera#^handelopera]]
+[[opera#^handelopera]]
 

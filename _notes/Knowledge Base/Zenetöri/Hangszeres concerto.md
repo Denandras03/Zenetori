@@ -20,7 +20,7 @@ alias: concerto
 			- felállás az együtteshez alkalmazkodik
 		- chiesa/camera
 		- bármennyi tétel
-		- 18. századi jelenség
+		- `18. századi` jelenség
 		- Róma, Itália, **Anglia**
 			- [[Francesco Geminiani]] tanítványa (-> London)
 			- [[Händel]] concerto grossoi (1732)

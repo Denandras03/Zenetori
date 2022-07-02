@@ -12,8 +12,8 @@
     -   -1492
     -   -1517
 -   zenei középkor
-    -   `4.  sz.` - zsoltárok
-    -   `9.  sz.` - kottaírás (hosszú, lassú folyamat)
+    -   4.  sz. - zsoltárok
+    -   9.  sz. - kottaírás (hosszú, lassú folyamat)
         -   széthúzódik a függöny egy folyamatban lévő darab közben
     -   1400 - újjászületik a zene
 
@@ -22,7 +22,7 @@
     -   gondolkodásformák
     -   zenei jelenségek
 -   (mindig is volt populáris zene)
--   `13.  sz.-i,` zenéről alkotott elképzelés
+-   13.  sz.-i, zenéről alkotott elképzelés
     1.  Musica mundana (a világmindenség (a szférák) zenéje
         -   égi jelenségek, évszakok
         -   a bolygók mozgása

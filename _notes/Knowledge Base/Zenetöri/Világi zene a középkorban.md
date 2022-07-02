@@ -2,12 +2,12 @@
 #zenetöri #anyag
 ---
 
--   19.  századig a világi zene nagyban hasonlít az egyházi zenére, a kezdetekben volt, hogy vallásos énekek dallamaira új szövegeket írtak
+-   `19.  századig` a világi zene nagyban hasonlít az egyházi zenére, a kezdetekben volt, hogy vallásos énekek dallamaira új szövegeket írtak
     
     -   funkcióiban és helyileg különbözik, de hasonlít maga a zene
     -   (pl. [[Bach]] 3. Brandenburgi verseny)
     -   a hangok nem vallásosak, az emberek azok
--   11.  század
+-   `11.  század`
     -   hódító hadjáratok
     -   Hódító Vilmos - Brit szigetek
     -   siratóének (egyházi jellegű zene)
@@ -27,7 +27,7 @@
         -   troubadour-kultúra
         -   Dél-francia költő-zenészek
         -   spanyol-francia határnál - Pireneusok
-        -   13-14. sz. - trouverek - Észak-Franciaország (ófrancia) - ők jegyezték le a trubadúrzenét (is)
+        -   `13-14. sz.` - trouverek - Észak-Franciaország (ófrancia) - ők jegyezték le a trubadúrzenét (is)
         -   sokkal kevesebb dallam maradt fent
         -   Minnesängerek - német
             -   a nemzeti kultúrák első képviselői (× nemzet)

@@ -29,12 +29,9 @@ __________________
 - lantkíséretes éneklés nem a nagy művészi zene része
 	- megváltozik, ez lesz a fő zene
 
-Le nuove musiche
-![[Le nuove musiche]] 
+[[Le nuove musiche]] 
 
-## [[Monteverdi]]: Orfeo
-
-![[Orfeo]]
+## [[Monteverdi]]: [[Orfeo]]
 
 > Hogyan ment egy előadás akkor?
 
@@ -49,7 +46,7 @@ Le nuove musiche
 ## Fázisai
 ### [[Udvari opera]] ~1630-ig
 * Peri, Caccini, Cavalieri
-* 1608: egy esküvő
+* `1608:` egy esküvő
 	* vendégek főleg Itáliából
 	* Gonzaga család villája
 	* [[Monteverdi]]: Arianna (4-6000 néző)
@@ -80,12 +77,12 @@ Le nuove musiche
 		- Firenzében [[Giulio Caccini]] lánya, Francesca operája
 		- 1630-as évek: opera Varsóban
 		- **kilép** a királyi udvarok köréből
-- 1637 - egy társulat kibérel egy színházat egy darab előadására
+- `1637` - egy társulat kibérel egy színházat egy darab előadására
 - minden évben 4-6 új opera, Velencében 9 operaház
 - [[Monteverdi]] 1613-tól a Szent Márk Székesegyházban dolgozik
 	- fiatalok kérnek új darabot
 	- Arianne közepesen sikeres bemutatója
-	- Poppea ![[Poppea megkoronázása]]
+	- [[Poppea megkoronázása]]
 - független városállam
 	- dózse és szenátus
 	- karnevál
@@ -98,5 +95,5 @@ Le nuove musiche
 - [[Händel]] [[Scarlatti]] innovációit használta ^handelopera
 	- nagyobb zenekar
 	- nagyobb ária -> [[opera seria|opera seria]] fontos eleme
-	- 1710: London - 30 év munka, [[opera seria]]k
+	- `1710:` London - 30 év munka, [[opera seria]]k
 	- - [[Antonio Vivaldi]] 40 opera seriaja

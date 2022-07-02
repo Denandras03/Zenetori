@@ -4,7 +4,7 @@ alias: francia barokk
 ---
 
 -   [[A barokk zenéről általában|barokk]] zene a feledésbe merül
--   20. század eleje, 2. vh után újrafelfedezés
+-   `20.` század eleje, 2. vh után újrafelfedezés
 -   francia forradalommal kettévágva
     -   Francia [[A barokk zenéről általában|barokk]]: utolsó újrafelfedezett [[A barokk zenéről általában|barokk]]
     -   William Christie (amerikai)
@@ -47,5 +47,4 @@ alias: francia barokk
     -   Tragédie en musique (= francia [[A barokk zenéről általában|barokk]] [[opera]])
         -   [[Mazarin]] bíboros többször megpróbálta bevinni az olasz operát, ez kudarcba fulladt <- színjátszás mély hagyománya
 
-Lully    
-![[Giovanni Battista Lully|Lully]]
+[[Giovanni Battista Lully|Lully]]

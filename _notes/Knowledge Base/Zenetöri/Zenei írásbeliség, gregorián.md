@@ -6,13 +6,13 @@
     -   függöny metafora
     -   modern kotta tartalmaz hangmagasságot és hosszt - középkori kotta épp ezeket nem
     -   a kottaírás kevesek kiváltsága, a zenészek egyébként is fejből énekelnek
--   4.  század: tekercsek helyett könyvek
+-   `4.  század:` tekercsek helyett könyvek
     -   nagy változás, a zene továbbadása
     -   drága kódexek (leginkább állatbőrből, később papírból)
     -   az egyháznak könyvkészítési monopóliuma volt (-13. sz.)
 -   [[Boethius]]: ABC
 -   neumák (helyenként más)
-    -   10.  századi kódex (Sankt Gallen)(Hartker antifóna)
+    -   `10.  századi` kódex (Sankt Gallen)(Hartker antifóna)
     -   sokáig nem nagyon használják
 -   600 körül Gergely pápa összegyűjti az egyházi énekeket
 -   meghatározó írásbeliség
@@ -20,18 +20,18 @@
 -   mise felépítése (rítus, a mise lényege Jézus utolsó vacsorájának újraátélése)
     -   proprium és ordinarium
     -   törzsanyag + regionális darabok + lokális tételek
-    -   7.  sz. - össze akarták fogni Európát, -> egységes liturgia
+    -   `7.  sz.` - össze akarták fogni Európát, -> egységes liturgia
     -   helyenként változóak a proprium-tételek (szentek)
-    -   8.  sz. - teljes énekrepertoár, de a régi műfajok gyarapításával
+    -   `8.  sz.` - teljes énekrepertoár, de a régi műfajok gyarapításával
         -   nagyobb repertoár
         -   új műfajok (tropus-, sequentiaköltészet + miseordinárium)
 -   zsolozsma - kolostorban élő szerzetesek imája (150 zsoltár hetente)
--   9.  századi szöveges kotta
+-   `9.  századi` szöveges kotta
 -   [[Arezzói Guido]] (1000 környékén)
     -   guidoi kéz, ujjpercekre bontva, szolmizálva
         -   hexachordokból áll
     -   "Út queant laxis" kezdetű himnusz Szent János tiszteletére
--   12-13. századi kódexek: hangok a térben elhelyezve - Franciaország (Párizs a kultúra központja)
+-   `12-13. századi` kódexek: hangok a térben elhelyezve - Franciaország (Párizs a kultúra központja)
     -   francia kvadrátnotáció
     -   több hang összekötve: ligatúrák - legato = "kötött"
 -   hexachordokra alapul
