@@ -2,8 +2,6 @@
 #zenetöri #anyag
 ---
 
-# Világi műfajok a 16. században
-
 -   francia területeken lévő műfajok
 -   kottanyomtatás
     -   [[Petrucci]] - igényes, de túl aprólékos

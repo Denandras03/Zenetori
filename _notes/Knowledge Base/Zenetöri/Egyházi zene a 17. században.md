@@ -1,7 +1,7 @@
 ---
 #zenetöri #anyag
 ---
-# Egyházi zene a 17. században
+
 -   [[Opera]] és [[madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben
 -   bárki által hallgatható: templomban
 -   nagyobb város - komplexebb zene

@@ -3,7 +3,7 @@
 alias: sonata, szonáta
 ---
 
-16. sz-ban az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar
+`16. sz-ban` az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar
 
 ### Barokk szonáta
 [[sonata da chiesa]]

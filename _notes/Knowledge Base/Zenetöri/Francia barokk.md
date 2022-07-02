@@ -3,7 +3,6 @@ alias: francia barokk
 #zenetöri #anyag
 ---
 
-# Francia [[A barokk zenéről általában|barokk]]
 -   [[A barokk zenéről általában|barokk]] zene a feledésbe merül
 -   20. század eleje, 2. vh után újrafelfedezés
 -   francia forradalommal kettévágva

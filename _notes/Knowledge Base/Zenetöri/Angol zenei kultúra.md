@@ -2,8 +2,6 @@
 #zenetöri #anyag
 ---
 
-# Angol zenei kultúra
-
 - ### **Angol polgári forradalom** (válság) 1642-51
     -   Puritánok elől elmenekül a későbbi [[II. Károly]] Párizsba, behozni szándékozza a kultúrát
     - vállalkozó polgárság, jelentős gazdag réteg azért hallgat zenét, mert szép

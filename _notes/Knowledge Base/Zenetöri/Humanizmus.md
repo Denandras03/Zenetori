@@ -3,8 +3,6 @@ alias: Humanizmus és az első operák, humanista, humanizmus
 #zenetöri #anyag
 ---
 
-# [[Humanizmus|Humanizmus és az első operák]] 
-
 Humanista gondolkodás
 > Visszatérés az ókori görög-római hagyományokhoz
 > egy szólamban éneklés, elementáris hatás

@@ -4,8 +4,6 @@
 [[Humanizmus]], [[semi-opera]], [[opera buffa]], [[opera seria]], [[udvari opera]], [[velencei opera]] [[monódikus stílus]], [[Hyppolyte et Aricie]]
 __________________
 
-# Az Opera
-
 > Milyen közegben jött létre ez a műfaj?
 
 * [[Firenzei camerata]]
