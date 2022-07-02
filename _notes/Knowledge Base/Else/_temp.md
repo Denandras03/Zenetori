@@ -1,6 +1,6 @@
 ---
 title: temp
-permalink: temp
+permalink: /temp
 ---
 
 [hidden link test](/Zenetöri/Machaut)
