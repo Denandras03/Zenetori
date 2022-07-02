@@ -11,8 +11,6 @@ permalink: /
   Dénes András <span style="font-weight: bold">[[zenetöri]] jegyzetei</span>
 </p>
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
 <style>
   .wrapper {
     max-width: 46em;
