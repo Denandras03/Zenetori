@@ -29,6 +29,9 @@ alias: barokk
 - [[monódikus stílus|monódikus énekstílus]], [[opera]]
 	- új stílus, új korszak
 
+* szobor: [[Bernini]]: Apollón és Daphné
+		- Daphné átváltozik babérfává, mert így megmenekül
+
 ### jelentős operák
 - [[Monteverdi]]: [[Orfeo|L'Orfeo]] (1607)
 
@@ -37,8 +40,6 @@ alias: barokk
 * a reneszánsztól való eltérések
 	* [[ars perfecta]] - [[Michelangelo]] Dávidja, statikus, tökéletes - [[reneszánsz]]
 		* meztelen, nyugodt
-	* [[Bernini]]: Apollón és Daphné
-		- Daphné átváltozik babérfává, mert így megmenekül
 
 ### egyéges korszak
 * változó világkép
