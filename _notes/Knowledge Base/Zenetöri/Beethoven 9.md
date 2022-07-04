@@ -5,7 +5,7 @@ alias: Beethoven IX. szimfónia
 
 ### Keletkezése
 - bécsi ősbemutató: ==1824==
-- várták az új művet: Rossininél kisebb népszerűségre tett szert, defelfigyeltek rá
+- várták az új művet: [[Rossini]]nél kisebb népszerűségre tett szert, defelfigyeltek rá
 
 ### A mű
 > Testvér lészen minden ember

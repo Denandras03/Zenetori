@@ -20,6 +20,7 @@ egyszerűsége -><- barokk polifónia
 - egyszerű [[gáláns stílus]] kiszorítja a barokkot
 - [[Empfindsamkeit]]: átmenet a preklasszika és az érett k. között
 - az egész stílus dallamközpontúsága szemben áll a barokk polifóniával
+	- népdalokra emlékeztető egyszerűség
 
 >  - egyenletesség
 >  - szimmetrikus tagolódás
@@ -28,7 +29,6 @@ egyszerűsége -><- barokk polifónia
 
 
 #### Legfőbb zeneszerzők
-népdalokra emlékeztető egyszerűség
 [[Haydn]]
 [[Mozart]]
 [[Beethoven]]
@@ -76,3 +76,4 @@ népdalokra emlékeztető egyszerűség
 	- + szólóhangszer: concerto (3 tétel)
 	- kamaraszonáták számtól függően (pl. kvintett)
 
+![[klasszika időtérkép.jpeg]]
