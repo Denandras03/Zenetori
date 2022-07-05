@@ -4,9 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-<main>
-    <div class="banner2.jpg"></div>
-</main>
+<div class="banner2.jpg"></div>
 
 # Üdvözöllek!
 
