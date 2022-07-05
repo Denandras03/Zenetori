@@ -4,8 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-<div class="banner2.jpg"></div>
-<img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=990&q=80.jpg" height="180" alt="">
 
 ![[banner2.jpg]]
 
