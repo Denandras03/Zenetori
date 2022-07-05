@@ -9,10 +9,10 @@ permalink: /
 
 # Üdvözöllek!
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 1px;">
+<p style="padding: 1em 1em; background: #ffefc2; border-radius: 0px;">
   Dénes András <span style="font-weight: bold">[[zenetöri]]</span> jegyzetei amolyan Wikipedia-formában. Minden mindennel összefügg, ahogy az a lenti mind mapen látszik. Semmi sem áll önmagában, ahogy a tényleges improvizáció sem létezhet.
 </p>
-<p style="padding: 3em 1em; background: #ffffff; border-radius: 1px;">
+<p style="padding: 1em 1em; background: #ffffff; border-radius: 0px;">
   Jó tanulást!
 </p>
 
