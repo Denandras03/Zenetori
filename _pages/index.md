@@ -7,6 +7,23 @@ permalink: /
 
 <img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=1800.jpg" height="200" alt="500">
 
+<div class="cropped">
+<img
+src="https://https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=1800.jpg"
+>
+.cropped {
+width: 1650px; 
+height: 200px; 
+overflow: hidden;
+border: 5px solid white;
+}
+
+.cropped img {
+margin: -10px 0px 0px -180px;
+}
+
+</div>
+
 # Üdvözöllek!
 
 <p style="padding: 1em 1em; background: #ffefc2; border-radius: 0px;">
