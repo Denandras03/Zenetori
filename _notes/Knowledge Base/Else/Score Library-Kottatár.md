@@ -14,7 +14,7 @@ Néhány fájl nevének végén egy "-" jel látható, ez rendszerint a méretcs
 
 **Használd bátran, de a feltöltött anyagért felelősséget nem vállalunk!**
 
-![[Score Library Request.png]]
+![[Request.png]]
 [English]
 
 This score library is a contribution-based collection, which was created by X and Y in 2019. You can also contribute, if you put your scores into the [Upload](https://drive.google.com/drive/folders/1pfs4gyP6S_39VI03s-GH8EyXEGYcX-99?usp=sharing) folder, so that if I re-uploaded them into their place, it won’t eat up your Google account's space. (I tend to watch the contributors' list and add everyone to the Upload folder, but if I miss you for some reason, you can also try uploading [here](https://drive.google.com/drive/folders/19Ju50Ii1CyrQ29IFsO8qf2oNry6YhAZS), or write an email to scores@harsona.hu.  
