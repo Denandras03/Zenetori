@@ -1,4 +1,5 @@
 # [Get the Score Library](mailto:scores@harsona.hu?subject=Score_Library&Subject&body=Please_send_me_the_Score_Library_Thanks)
+(sends a request email)
 
 ==25 Gb/18000 scores==
 
@@ -16,7 +17,7 @@ Néhány fájl nevének végén egy "-" jel látható, ez rendszerint a méretcs
 
 **Használd bátran, de a feltöltött anyagért felelősséget nem vállalunk!**
 
-![[Library-share.png]]
+## [Share it!](https://drive.google.com/file/d/16GkvWLwQc-tIvB6qewQD4UZF3dmrEdMl/view?usp=drivesdk)
 
 [English]
 
