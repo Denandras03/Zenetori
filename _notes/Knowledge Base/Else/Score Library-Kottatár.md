@@ -1,5 +1,7 @@
 # [Get the Score Library](mailto:scores@harsona.hu?subject=Score_Library&Subject&body=Please_send_me_the_Score_Library_Thanks)
 
+==25 Gb/18000 scores==
+
 [English below]
 
 Ez a kottatár egy mindenki közreműködése által létrejött gyűjtemény, amelynek ötlete a 2019. évi Debreceni YMSA mesterkurzuson született X és Y fejében. Te is közreműködhetsz, ha a kottákat a [feltöltés](https://drive.google.com/drive/folders/1pfs4gyP6S_39VI03s-GH8EyXEGYcX-99?usp=sharing) mappába teszed, így miután visszatöltöttem azt a helyére, nem a te helyedet foglalja majd. (Igyekszem mindenkit mielőbb szerkesztőnek beállítani, de ha nem vagy még az, feltöltheted [ezen](https://drive.google.com/drive/folders/19Ju50Ii1CyrQ29IFsO8qf2oNry6YhAZS) a linken, vagy írj egy emailt a scores@harsona.hu címre!
@@ -14,7 +16,8 @@ Néhány fájl nevének végén egy "-" jel látható, ez rendszerint a méretcs
 
 **Használd bátran, de a feltöltött anyagért felelősséget nem vállalunk!**
 
-![[Request.png]]
+![[Library-share.png]]
+
 [English]
 
 This score library is a contribution-based collection, which was created by X and Y in 2019. You can also contribute, if you put your scores into the [Upload](https://drive.google.com/drive/folders/1pfs4gyP6S_39VI03s-GH8EyXEGYcX-99?usp=sharing) folder, so that if I re-uploaded them into their place, it won’t eat up your Google account's space. (I tend to watch the contributors' list and add everyone to the Upload folder, but if I miss you for some reason, you can also try uploading [here](https://drive.google.com/drive/folders/19Ju50Ii1CyrQ29IFsO8qf2oNry6YhAZS), or write an email to scores@harsona.hu.  
