@@ -1,7 +1,7 @@
-# [Get the Score Library](mailto:scores@harsona.hu?subject=Score_Library&Subject&body=Please_send_me_the_Score_Library_Thanks)
+## ==[Click here to get the Score Library](mailto:scores@harsona.hu?subject=Score_Library&Subject&body=Please_send_me_the_Score_Library_Thanks)==
 (sends a request email)
 
-==25 Gb/18000 scores==
+> 25 Gb/18000 scores
 
 [English below]
 
